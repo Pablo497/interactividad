@@ -88,7 +88,7 @@ header, footer{ background-color: #000; color: #fff; }
 	align-items: center;
 }
 
-.pie__top-nav, .pie__top-contacto{ display:grid; grid-gap:5px; padding:20px; }
+.pie__top-nav, .pie__top-contacto{ display:grid; grid-gap:5px; padding:25px; }
 
 .pie__top-nav_links{
 	display: grid;
@@ -111,5 +111,6 @@ header, footer{ background-color: #000; color: #fff; }
 @media screen and (max-width: 500px){
 
 	.servicios__items, .trending__items,.pie__top, .pie__top-info{ display:block; }
+	.trending__items { padding-bottom: 50px; }
 
 }
