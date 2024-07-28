@@ -43,6 +43,11 @@ header, footer{ background-color: #000; color: #fff; }
 	display: grid;
 	grid-gap: 5px;
 	padding-left: 25px;
+	padding-bottom: 55px;
+}
+
+.categorias__nav a:hover{
+	border: 1px solid gray;
 }
 
 .promociones{
@@ -56,6 +61,7 @@ header, footer{ background-color: #000; color: #fff; }
 	grid-template-columns: repeat(2, 1fr);
 	grid-gap: 5px;
 	padding: 0 70px;
+	padding-bottom: 50px;
 }
 
 .servicios, .trending{
