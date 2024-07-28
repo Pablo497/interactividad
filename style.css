@@ -54,6 +54,7 @@ header, footer{ background-color: #000; color: #fff; }
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-gap: 5px;
+	padding: 0 70px;
 }
 
 .servicios, .trending{
