@@ -63,6 +63,11 @@ header, footer{ background-color: #000; color: #fff; }
 	padding: 20px;
 }
 
+.servicios{
+	padding: 50px;
+	grid-gap: 25px;
+}
+
 .trending{ background-color: #000; color:#fff; }
 .trending_productos{ width:250px; height:250px; }
 .trending_boton{ border: none; padding:10px; border-radius:10px; }
