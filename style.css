@@ -21,7 +21,7 @@ header, footer{ background-color: #000; color: #fff; }
 }
 	
 .login{
-	background-color: lightgray;
+	background-color: darkgray;
 	padding: 5px;
 	border-radius: 10px;
 }
