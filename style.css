@@ -87,6 +87,11 @@ header, footer{ background-color: #000; color: #fff; }
 	grid-gap: 5px;
 }
 
+.servicios__items{
+	text-align: center;
+	grid-gap: 20px;
+}
+
 .servicios_iconos{ width:75px; height:75px; border-radius:10px; }
 .servicios__items-item{ display:grid; justify-items:center; align-items:center; grid-gap:5px; }
 
