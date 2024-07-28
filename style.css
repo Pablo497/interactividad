@@ -48,6 +48,7 @@ header, footer{ background-color: #000; color: #fff; }
 .promociones{
 	display: grid;
 	justify-items: center;
+	align-items: center;
 }
 
 .promociones__items{
