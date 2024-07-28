@@ -48,7 +48,7 @@ header, footer{ background-color: #000; color: #fff; }
 
 .categorias__nav a:hover{
 	border: 1px solid gray;
-	padding: 10px;
+	padding: 0 10px;
 	font-weight: bold;
 }
 
