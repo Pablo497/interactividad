@@ -140,7 +140,7 @@ header, footer{ background-color: #000; color: #fff; }
 	.menu, .principal, .servicios__items, .trending__items,.pie__top, .pie__top-info{ display:block; padding-bottom: 20px;}
 	.trending__items { padding-bottom: 50px; }
 
-	.menu{ display: grid; grid-template-rows: repeat(1, 1fr); padding: 20px; justify-items: center;}
+	.menu{ display: grid; grid-template-columns: repeat(1, 1fr); padding: 20px; justify-items: center;}
 	.nav_menu{ display: block; padding: 10px;}
 
 }
