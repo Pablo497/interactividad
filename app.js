@@ -10,3 +10,11 @@ menu.addEventListener('click', () => {
   }
   
 })
+
+let dark = document.getElementById('dark')
+
+dark.addEVentListener('click', () => {
+
+  
+  
+} )
