@@ -146,5 +146,6 @@ header, footer{ background-color: #000; color: #fff; }
 	.menu{ display: grid; grid-template-columns: repeat(1, 1fr); padding: 20px; justify-items: center;}
 	/*.nav_menu{ display: block; padding: 10px;}*/
 	.nav_menu{ display: none; }
+	.promociones{ margin-top: 50px;}
 
 }
